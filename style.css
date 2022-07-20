@@ -4,15 +4,19 @@
   box-sizing: border-box;
   font-family: "Red Rose", cursive;
 }
-body {
-  /* background-image: url('assets/pexels-maxyne-barcel-10402282\ 1.png');
-  background-size: cover; */
+.bg-img {
+  background-image: url('assets/pexels-maxyne-barcel-10402282\ 1.png');
+  background-size: cover;
   color : #ffc233;
-  background: #000;
+  min-height: 100%;
+  position: relative;
 }
 .container {
   width: 90%;
   margin: 0 auto;
+}
+.overlay {
+  background: rgb(34 39 80 / 71%);
 }
 
 /* ------------------------------ */
@@ -22,7 +26,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 5vh;
+  padding-top: 5vh;
 }
 .logo {
   width: 60%;
@@ -50,6 +54,7 @@ body {
 }
 .hero-heading {
   font-size: 7rem;
+  line-height: 1;
 }
 .button-large {
   border: none;
@@ -57,4 +62,10 @@ body {
   padding: 15px 35px;
   font-size: 1.5rem;
   color: #fff;
+}
+.bottom img {
+  width: 10%;
+  position: absolute;
+  bottom: 0;
+  right: 5vh;
 }
