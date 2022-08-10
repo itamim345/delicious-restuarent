@@ -1,11 +1,22 @@
-# I'm Abdul Fattah Tamim
 
-**In this project mostly it focused on CSS flex, and also I have used position, background image , dark overlay and etc**
+# Delicious Restaurant
+## Introduction
 
-*It has taken 2-2.5 hrs to complete*
+In this very simple project, I have tried to make a beautiful landing page.
 
-[Live Link](https://delicious-restuarent-landing-page01.netlify.app/)
+I focusd to practice some properties of background image,Flex, background-overlay, Position and etc.
 
-![image](/delicious-restuarent.png)
+I have used only HTML and CSS for this project.
+
+*It has taken 2-3 hrs to finish*
 
 
+## Preview
+
+![App Screenshot](https://raw.githubusercontent.com/itamim345/delicious-restuarent/main/delicious-restuarent.png)
+
+
+## Live Link
+
+ - [Click here to visit](https://delicious-restuarent-landing-page01.netlify.app/)
+ 
